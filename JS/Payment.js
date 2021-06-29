@@ -1,0 +1,3 @@
+funtion Payment() {
+this.id;
+}
