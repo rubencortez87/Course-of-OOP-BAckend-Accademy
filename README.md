@@ -3,7 +3,7 @@ this repository has the exercises I did with the uber example,you will also find
 
 ## Getting Started
 
-## Pre/requisites
+## Pre-requisites
 Python
 Java
 JavaScript
